@@ -1,0 +1,232 @@
+# 🎮 Tic Tac Toe Game
+
+A modern and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. This project includes multiple game modes, beautiful UI, sound effects, animations, dark mode, timer, score tracking, and AI opponents, making it an excellent beginner-to-intermediate JavaScript project.
+
+---
+
+## 🚀 Live Demo
+
+> Add your live website link here (GitHub Pages, Netlify, or Vercel)
+
+```
+https://github.com/your-username/tic-tac-toe.git
+```
+
+---
+
+## 📸 Preview
+
+> Add screenshots of your game here.
+
+| Home Screen | Winner Screen |
+|-------------|---------------|
+| ![Home](![alt text](image.png)) | ![Winner](![alt text](image-1.png)) |
+
+---
+
+# ✨ Features
+
+- 🎮 Player vs Player Mode
+- 🤖 Easy AI Opponent
+- 🧠 Hard AI (Minimax Algorithm)
+- 🏆 Winner Detection
+- 🤝 Draw Detection
+- 🌙 Dark Mode
+- 🎵 Background Music
+- 🔊 Sound Effects
+- ⏱️ Game Timer
+- 💾 Local Storage Score Saving
+- 📊 Scoreboard
+- 🎨 Winner Highlight Animation
+- 📱 Responsive Design
+- 🔄 Reset Game
+- 🆕 New Game
+- 🎯 Smooth User Interface
+
+---
+
+# 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Local Storage API
+- Minimax Algorithm
+
+---
+
+# 📂 Project Structure
+
+```
+Tic-Tac-Toe/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── assets/
+│   ├── images/
+│   ├── sounds/
+│   └── icons/
+│
+└── README.md
+```
+
+---
+
+# 🎮 How to Play
+
+1. Open the game in your browser.
+2. Select your preferred game mode.
+3. Click on any empty box to make your move.
+4. Align three symbols horizontally, vertically, or diagonally to win.
+5. Use the Reset or New Game button to play again.
+
+---
+
+# 🤖 AI Modes
+
+### 👥 Player vs Player
+Two players take turns playing on the same device.
+
+### 🤖 Easy AI
+The computer selects random available positions.
+
+### 🧠 Hard AI
+Powered by the **Minimax Algorithm**, making the AI nearly impossible to defeat.
+
+---
+
+# 🏆 Winning Rules
+
+A player wins by placing three identical symbols in:
+
+- Horizontal Row
+- Vertical Column
+- Diagonal
+
+If all boxes are filled without a winner, the game ends in a draw.
+
+---
+
+# 📊 Score System
+
+The game automatically tracks:
+
+- Player X Wins
+- Player O Wins
+- Draw Matches
+
+Scores are stored using **Local Storage**, so they remain available even after refreshing the browser.
+
+---
+
+# 🌙 Dark Mode
+
+Switch between:
+
+- ☀️ Light Theme
+- 🌙 Dark Theme
+
+Your selected theme is automatically saved.
+
+---
+
+# 🔊 Sound Effects
+
+- Click Sound
+- Winner Sound
+- Draw Sound
+- Background Music
+
+---
+
+# 📱 Responsive Design
+
+The game works smoothly on:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile Devices
+
+---
+
+# 🧠 Minimax Algorithm
+
+The Hard AI uses the **Minimax Algorithm**, allowing it to:
+
+- Predict future moves
+- Block the player's winning chances
+- Choose the optimal move
+- Never intentionally lose
+
+---
+
+# 📦 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/tic-tac-toe.git
+```
+
+Go to the project folder
+
+```bash
+cd tic-tac-toe
+```
+
+Open
+
+```
+index.html
+```
+
+in your browser.
+
+---
+
+# 🔮 Future Improvements
+
+- Online Multiplayer
+- Difficulty Levels
+- Leaderboard
+- Game History
+- User Profiles
+- PWA Support
+- Android App
+- iOS App
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Open a Pull Request
+
+---
+
+# ⭐ Support
+
+If you like this project, please consider giving it a ⭐ on GitHub.
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+# 👨‍💻 Author
+
+**Muhammad Hasnain**
+
+GitHub: https://github.com/hasnain670-web/
+
+LinkedIn: https://www.linkedin.com/in/muhammad-hasnain-71743a377
